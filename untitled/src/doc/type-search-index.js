@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"ArmementSupplementaire"},{"p":"<Unnamed>","l":"EnumClasse"},{"p":"<Unnamed>","l":"SuivreRoute"},{"p":"<Unnamed>","l":"Voilier"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"ArmementSupplementaire"},{"p":"<Unnamed>","l":"EnumClasse"},{"p":"<Unnamed>","l":"SuivreRoute"},{"p":"<Unnamed>","l":"Velo"},{"p":"<Unnamed>","l":"Voilier"}];updateSearchResults();
